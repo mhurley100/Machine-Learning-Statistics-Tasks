@@ -1,6 +1,6 @@
 # Machine-Learning-Statistics-Tasks 2020 
 
-## G00376337 Maura Hurley
+## Maura Hurley
 
 This repository contains a Jupyter Notebook with the solutions to the Tasks for Machine Learning & Statistics 2020.  
 There are 4 tasks:
@@ -32,27 +32,28 @@ Pearson’s chi-squared statistical hypothesis is a test for independence betwee
 ## Task 3:
 Research the excel functions (STDDEV.P and STDDEV.S) noting the differences between them. Then use numpy to perform a simulation demonstrating that the STDDEV.S calculation is a better estimate for the standard deviation of a population when performed on a sample. 
 
+#### Task objectives:
+- Research STDEV.P and STDEV.S
+- STDEV.P and STDEV.S differences
+- Simulate using Numpy demonstrating STDEV.S is the better option for a population when performed on a sample
+- Analyse the result
 
 ## Task 4:
 
 Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set on-line. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
-Task objectives:
+#### Task objectives:
 - Research the Iris Dataset
 - Use scikit learn to explain k-means clustering to the Iris data set
 - Explain how model can make predictions
 
 
-## License
-
 
 ## Jupyter Notebook
 
-Downloading the Repository
+Download the Repository as follows:
 
-To download it, do the following:
-
-    Click on the "Clone or Download" button
-    Select "Download ZIP". This will open a prompt allowing you to save the file to your computer.
-    Navigate to the download location and extract the compressed (.zip) folder to a suitable location.
+- Click on the "Clone or Download" button
+- Select "Download ZIP". This will open a prompt allowing you to save the file to your computer.
+- Navigate to the download location and extract the compressed (.zip) folder to a suitable location.
 
