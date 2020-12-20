@@ -40,13 +40,14 @@ Research the excel functions (STDDEV.P and STDDEV.S) noting the differences betw
 
 ## Task 4:
 
-Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set on-line. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain a
+copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 #### Task objectives:
-- Research the Iris Dataset
-- Use scikit learn to explain k-means clustering to the Iris data set
-- Explain how model can make predictions
 
+- Research the Iris Dataset
+- Explain how code works
+- Explain how model can make predictions
 
 
 ## Jupyter Notebook
