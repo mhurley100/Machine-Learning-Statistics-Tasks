@@ -29,7 +29,8 @@ Pearson’s chi-squared statistical hypothesis is a test for independence betwee
 - Use Scipy.stats to verify the dataset
 - Analyse the result
 
-## Task 3:
+## Task 3: STDDEV.P and STDDEV.S - which works best for statistical data
+
 Research the excel functions (STDDEV.P and STDDEV.S) noting the differences between them. Then use numpy to perform a simulation demonstrating that the STDDEV.S calculation is a better estimate for the standard deviation of a population when performed on a sample. 
 
 #### Task objectives:
@@ -38,10 +39,9 @@ Research the excel functions (STDDEV.P and STDDEV.S) noting the differences betw
 - Simulate using Numpy demonstrating STDEV.S is the better option for a population when performed on a sample
 - Analyse the result
 
-## Task 4:
+## Task 4:  Use scikit learn to apply KNN to the Iris data set
 
-Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain a
-copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 #### Task objectives:
 
@@ -54,7 +54,7 @@ copy of the data set online. Explain in a Markdown cell how your code works and 
 
 Download the Repository as follows:
 
-- Click on the "Clone or Download" button
+- Click on the "Clone or Download" button.
 - Select "Download ZIP". This will open a prompt allowing you to save the file to your computer.
 - Navigate to the download location and extract the compressed (.zip) folder to a suitable location.
 
