@@ -2,7 +2,7 @@
 
 ## Maura Hurley
 
-This repository contains a Jupyter Notebook with the solutions to the Tasks for Machine Learning & Statistics 2020. 
+This repository contains my solutions to the Tasks for Machine Learning & Statistics module 2020. 
 
     
 ### This repository contains the following files:
